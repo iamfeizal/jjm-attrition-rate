@@ -1,4 +1,7 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+Database:
+User: postgres
+Pass: jjm123
 
 ## Business Understanding
 
